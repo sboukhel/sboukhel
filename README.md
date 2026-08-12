@@ -1,7 +1,6 @@
 <h1 align="center">🖥️​ Certus-sec 🖥️​</h1>
-
 <p align="center">
-[![sboukhel's 42 stats](https://badge.mediaplus.ma/binary/sboukhel)](https://github.com/oakoudad/badge42)
+  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="360" <a alt="Developer GIF" />
 </p>
 
 ----
