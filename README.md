@@ -10,13 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+Candidate" alt="Typing SVG"/>
 
   <h1>🔐 SABIR | CERTUS-SEC</h1>
-  <p><strong>CS Student · Systems Programmer · Cloud Security Engineer in Progress</strong></p>
+  <p><strong>Student at 1337 school · Systems Programmer · Cloud Security Engineer in Progress</strong></p>
   
 ---
 
 ## 🎯 About Me
 
-- 🎓 **19 years old** | CS Student | Preparing for **1337 School**
+- 🎓 **19 years old** | Student at **1337 School**
 - ☁️ **Focus:** Cloud Security · Cybersecurity · Pentesting
 - 💻 **Stack:** C · Python · Shell · Linux · Git · Vim
 - 🎯 **Mission:** Transitioning from Code to Cloud Security
@@ -38,23 +38,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
 </p>
 
-**Cloud & DevOps**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
-</p>
-
-**Security**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white"/>
-</p>
-
 **Tools**
 
 <p align="center">
@@ -64,19 +47,6 @@
 </p>
 
 ----------
-
-## 🏆 Certification Roadmap
-
-| Certification | Status | Note |
-|:-------------|:------:|:-----|
-| **CompTIA Security+** | 🟡 In Progress | Foundation |
-| **AWS Solutions Architect** | ⚪ Planned | Cloud core |
-| **Microsoft AZ-500** | ⚪ Planned | Azure Security |
-| **OSCP** | ⚪ Planned | Advanced Pentesting |
-| **AWS Security Specialty** | ⚪ Planned | Rare & high value |
-| **CKS (Kubernetes Security)** | ⚪ Planned | Cloud-native gold |
-
----
 
 ## GitHub Stats
 
