@@ -1,7 +1,7 @@
 <h1 align="center">🖥️​ Certus-sec 🖥️​</h1>
 
 <p align="center">
-[![<sboukhel>'s 42 stats](https://badge.mediaplus.ma/<binary>/<sboukhel>)](https://github.com/oakoudad/badge42)
+[![sboukhel's 42 stats](https://badge.mediaplus.ma/binary/sboukhel)](https://github.com/oakoudad/badge42)
 </p>
 
 ----
