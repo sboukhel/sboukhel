@@ -1,7 +1,7 @@
 <h1 align="center">🖥️​ Certus-sec 🖥️​</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Ems-mLvCeqwAAAAd/cid-kagenou.gif"  width="90%" height="360"><a alt="Developer GIF" />
+[![<sboukhel>'s 42 stats](https://badge.mediaplus.ma/<binary>/<sboukhel>)](https://github.com/oakoudad/badge42)
 </p>
 
 ----
