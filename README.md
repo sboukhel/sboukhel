@@ -1,24 +1,24 @@
-<h1 align="center">🖥️​ Certus-sec 🖥️​</h1>
+<h1 align="center">🖥️​ Sabir boukhelyf 🖥️​</h1>
 <p align="center">
-  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="360" <a alt="Developer GIF" />
+  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="360"><a alt="Developer GIF" />
 </p>
 
 ----
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+Candidate" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Sabir+Boukhelyf;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+khouribga" alt="Typing SVG"/>
 
-  <h1>🔐 SABIR | CERTUS-SEC</h1>
-  <p><strong>Student at 1337 school · Systems Programmer · Cloud Security Engineer in Progress</strong></p>
+  <h1>🔐 SABIR | sboukhel</h1>
+  <p><strong>Student at 1337 school · Systems Programmer · Engineer in Progress</strong></p>
   
 ---
 
 ## 🎯 About Me
 
 - 🎓 **19 years old** | Student at **1337 School**
-- ☁️ **Focus:** Cloud Security · Cybersecurity · Pentesting
+- ☁️ **Focus:** Cybersecurity · Pentesting
 - 💻 **Stack:** C · Python · Shell · Linux · Git · Vim
-- 🎯 **Mission:** Transitioning from Code to Cloud Security
+- 🎯 **Mission:** Transitioning from Code to Cybersecurity
 
 ---
 
@@ -54,18 +54,18 @@
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=certus-sec&theme=shadow&hide_border=true&layout=compact&count_private=true" width="100%" />
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sboukhel&theme=shadow&hide_border=true&layout=compact&count_private=true" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sboukhel&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://readme-stats-github.pages.dev/api?username=certus-sec&theme=shadow&hide_border=true" width="100%" />
+        <img src="https://readme-stats-github.pages.dev/api?username=sboukhel&theme=shadow&hide_border=true" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=certus-sec&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sboukhel&theme=tokyo-night&hide_border=true&area=true" width="100%" />
       </td>
     </tr>
   </table>
@@ -77,7 +77,7 @@
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/certus-sec">
+  <a href="https://github.com/sboukhel">
     <img src="./assets/github_btn.svg" width="136" height="44" alt="GitHub" />
   </a>
   &nbsp;
