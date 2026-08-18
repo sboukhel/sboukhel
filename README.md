@@ -85,11 +85,11 @@
     <img src="./assets/gmail_btn.svg" width="136" height="44" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/certus-sec">
+  <a href="https://linkedin.com/in/sboukhel">
     <img src="./assets/linkedin_btn.svg" width="136" height="44" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/certus_sec">
+  <a href="https://x.com/sboukhel">
     <img src="./assets/x_btn.svg" width="136" height="44" alt="X" />
   </a>
   &nbsp;
