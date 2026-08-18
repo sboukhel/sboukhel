@@ -57,15 +57,7 @@
         <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sboukhel&theme=shadow&hide_border=true&layout=compact&count_private=true" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sboukhel&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
         <img src="https://readme-stats-github.pages.dev/api?username=sboukhel&theme=shadow&hide_border=true" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sboukhel&theme=tokyo-night&hide_border=true&area=true" width="100%" />
       </td>
     </tr>
   </table>
