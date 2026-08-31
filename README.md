@@ -13,7 +13,7 @@
 <h2 align="center">🎯 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Age-19_years_old-2563EB?style=for-the-badge&labelColor=0f172a" alt="Age" />
+  <img src="https://img.shields.io/badge/🎓_Age-20_years_old-2563EB?style=for-the-badge&labelColor=0f172a" alt="Age" />
   <img src="https://img.shields.io/badge/🏫_School-1337-2563EB?style=for-the-badge&labelColor=0f172a" alt="School" />
 </p>
 <p align="center">
@@ -22,10 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Stack-C_·_Shell_·_Linux_·_Git_·_Vim-2563EB?style=for-the-badge&labelColor=0f172a" alt="Stack" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Mission-Code_%E2%86%92_Cybersecurity-00D4AA?style=for-the-badge&labelColor=0f172a" alt="Mission" />
-</p>
-
 <hr />
 
 <h2 align="center">🛠️ Tech Stack</h2>
