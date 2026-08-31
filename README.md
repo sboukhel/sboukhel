@@ -3,17 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+sboukhel;Student+at+1337+School;Systems+Programmer;Engineer+in+Progress" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/greenbinary/sboukhel" alt="sboukhel's 42 stats" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Sabir+Boukhelyf;C+%7C+Python+%7C+Shell;Linux+%7C+Git+%7C+Vim" alt="Typing SVG" />
 </p>
 
 <hr />
@@ -40,48 +32,21 @@
 
 <h3 align="center">Languages &amp; Core</h3>
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 <h3 align="center">Tools &amp; Platforms</h3>
 <p align="center">
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" /></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" />
 </p>
-
-<hr />
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/sboukhel">
-        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=sboukhel&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/sboukhel">
-        <img width="100%" src="https://github-stats-extended.vercel.app/api?username=sboukhel&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/sboukhel">
-        <img width="50%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sboukhel&theme=dark&hide_border=true" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
 
 <hr />
 
