@@ -1,12 +1,14 @@
 <h1 align="center">🖥️​ Sabir boukhelyf 🖥️​</h1>
 <p align="center">
-  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="360"><a alt="Developer GIF" />
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/sboukhel" alt="sboukhel's 42 stats" />
+  </a>
 </p>
 
 ----
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Sabir+Boukhelyf;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+khouribga" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Sabir+Boukhelyf;C+%7C+Python+%7C+Sh[...]
 
   <h1>🔐 SABIR | sboukhel</h1>
   <p><strong>Student at 1337 school · Systems Programmer · Engineer in Progress</strong></p>
