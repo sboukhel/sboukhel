@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="44" viewBox="0 0 136 44" role="img" aria-label="X">
-  <rect width="136" height="44" rx="22" fill="#000000"/>
-  <g transform="translate(14, 10) scale(1)">
-    <path fill="#fff" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L2.25 2.25h6.773l4.255 5.623L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/>
-  </g>
-  <text x="50" y="27" fill="white" font-size="13" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-weight="700" letter-spacing="0.4">X / TWITTER</text>
-</svg>
