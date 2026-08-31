@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/☁️_Focus-Cybersecurity_%7C_Pentesting-00D4AA?style=for-the-badge&labelColor=0f172a" alt="Focus" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Stack-C_·_Python_·_Shell_·_Linux_·_Git_·_Vim-2563EB?style=for-the-badge&labelColor=0f172a" alt="Stack" />
+  <img src="https://img.shields.io/badge/💻_Stack-C_·_Shell_·_Linux_·_Git_·_Vim-2563EB?style=for-the-badge&labelColor=0f172a" alt="Stack" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Mission-Code_%E2%86%92_Cybersecurity-00D4AA?style=for-the-badge&labelColor=0f172a" alt="Mission" />
