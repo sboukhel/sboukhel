@@ -40,6 +40,27 @@
 </p>
 
 <hr />
+<h3 align="center" width="50%">probem solven platform</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.hackerrank.com/profile/sboukhel">
+          <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
+        </a>
+        <h4>HackerRank</h4>
+        <p>Solving challenges and strengthening skills in algorithms and data structures.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/certus-sec/">
+          <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FE7A27?style=flat-square&logo=leetcode&logoColor=white">
+        </a>
+        <h4>LeetCode</h4>
+        <p>Projects and problems ranging from intermediate to advanced levels.</p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
