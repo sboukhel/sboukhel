@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sabir%20Boukhelyf&fontSize=42&fontColor=00D4AA&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sabir%20Boukhelyf&fontSize=42&fontColor=00D4AA&animation=fadeIn&fontAlignY=40" alt="Sabir Boukhelyf banner" />
 </p>
 
 <p align="center">
@@ -16,12 +16,15 @@
   <img src="https://img.shields.io/badge/🎓_Age-20_years_old-2563EB?style=for-the-badge&labelColor=0f172a" alt="Age" />
   <img src="https://img.shields.io/badge/🏫_School-1337-2563EB?style=for-the-badge&labelColor=0f172a" alt="School" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/☁️_Focus-Cybersecurity_%7C_Pentesting-00D4AA?style=for-the-badge&labelColor=0f172a" alt="Focus" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Stack-C_·_Shell_·_Linux_·_Git_·_Vim-2563EB?style=for-the-badge&labelColor=0f172a" alt="Stack" />
 </p>
+
 <hr />
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -40,7 +43,8 @@
 </p>
 
 <hr />
-<h3 align="center" width="50%">probem solven platform</h3>
+
+<h3 align="center">Problem Solving Platforms</h3>
 <p align="center">
   <table>
     <tr>
@@ -49,14 +53,14 @@
           <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
         </a>
         <h4>HackerRank</h4>
-        <p>Solving challenges and strengthening skills in algorithms and data structures.</p>
+        <p>Improving algorithms and data structures through daily challenge solving.</p>
       </td>
       <td align="center" width="50%">
         <a href="https://leetcode.com/u/certus-sec/">
           <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FE7A27?style=flat-square&logo=leetcode&logoColor=white">
         </a>
         <h4>LeetCode</h4>
-        <p>Projects and problems ranging from intermediate to advanced levels.</p>
+        <p>Working through intermediate to advanced problems to strengthen problem-solving skills.</p>
       </td>
     </tr>
   </table>
