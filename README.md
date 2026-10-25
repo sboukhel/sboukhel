@@ -48,19 +48,26 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <a href="https://www.hackerrank.com/profile/sboukhel">
           <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
         </a>
         <h4>HackerRank</h4>
         <p>Improving algorithms and data structures through daily challenge solving.</p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <a href="https://leetcode.com/u/certus-sec/">
           <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FE7A27?style=flat-square&logo=leetcode&logoColor=white">
         </a>
         <h4>LeetCode</h4>
         <p>Working through intermediate to advanced problems to strengthen problem-solving skills.</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.codingame.com/profile/15154fd14dc0d73311cf5c4b7d5369003628367">
+          <img alt="Codingame" src="https://img.shields.io/badge/Codingame-Profile-2C7BE5?style=flat-square&logo=codingame&logoColor=white">
+        </a>
+        <h4>Codingame</h4>
+        <p>Solving coding puzzles and challenges to sharpen logic, optimization, and algorithmic thinking.</p>
       </td>
     </tr>
   </table>
