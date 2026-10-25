@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☁️_Focus-Cybersecurity_%7C_Pentesting-00D4AA?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+  <img src="https://img.shields.io/badge/☁️_Focus-software_engeneer_%7C_-00D4AA?style=for-the-badge&labelColor=0f172a" alt="Focus" />
 </p>
 
 <p align="center">
