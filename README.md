@@ -46,12 +46,8 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/SoufianoDev/gh-profile-stats">
-    <img src="https://gh-profile-stats.netlify.app/api/card?username=sboukhel&theme=tokyonight" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/SoufianoDev/gh-profile-stats">
-    <img src="https://gh-profile-stats.netlify.app/api/langs?username=sboukhel&theme=tokyonight&layout=grid" alt="Top languages" />
-  </a>
+  <a href="https://github.com/SoufianoDev/gh-profile-stats"><img src="https://gh-profile-stats.netlify.app/api/card?username=sboukhel&theme=tokyonight" alt="GitHub statistics" width="49%" /></a>
+  <a href="https://github.com/SoufianoDev/gh-profile-stats"><img src="https://gh-profile-stats.netlify.app/api/langs?username=sboukhel&theme=tokyonight&layout=grid" alt="Top languages" width="49%" /></a>
 </p>
 
 <hr />
