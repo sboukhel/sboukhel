@@ -46,11 +46,13 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sboukhel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <a href="https://github.com/SoufianoDev/gh-profile-stats">
+    <img src="https://gh-profile-stats.netlify.app/api/card?username=sboukhel&theme=tokyonight" alt="GitHub statistics" />
+  </a>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sboukhel&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sboukhel&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/SoufianoDev/gh-profile-stats">
+    <img src="https://gh-profile-stats.netlify.app/api/langs?username=sboukhel&theme=tokyonight&layout=grid" alt="Top languages" />
+  </a>
 </p>
 
 <hr />
