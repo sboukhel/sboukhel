@@ -49,7 +49,6 @@
   <a href="https://github.com/SoufianoDev/gh-profile-stats">
     <img src="https://gh-profile-stats.netlify.app/api/card?username=sboukhel&theme=tokyonight" alt="GitHub statistics" />
   </a>
-  <br />
   <a href="https://github.com/SoufianoDev/gh-profile-stats">
     <img src="https://gh-profile-stats.netlify.app/api/langs?username=sboukhel&theme=tokyonight&layout=grid" alt="Top languages" />
   </a>
